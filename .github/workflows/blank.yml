@@ -18,4 +18,4 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     uses: GodsVictory/test-reuse/.github/workflows/blank.yml@main
-    #secrets: inherit # pass all secrets
+    secrets: inherit # pass all secrets
